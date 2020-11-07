@@ -50,7 +50,6 @@ display: inline-block;
 .nav a {
 display: inline-block;
 width: 90px;
-float: left;
 text-align: center;
 border: solid #2c4e4e;
 border-width: 2.5px;
