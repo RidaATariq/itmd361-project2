@@ -34,7 +34,6 @@ padding-top: 1em;
 border: solid #2c4e4e;
 border-width: 5px;
 list-style: none;
-float: inherit;
 margin: 0;
 padding: 0;
 text-align: center;
@@ -51,6 +50,7 @@ display: inline-block;
 .nav a {
 display: inline-block;
 width: 90px;
+float: left;
 text-align: center;
 border: solid #2c4e4e;
 border-width: 2.5px;
@@ -119,7 +119,7 @@ opacity: 1;
 .ksa {
 border: 5px dashed #440d46;
 display: block;
-float: inherit;
+float: none;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
@@ -129,7 +129,7 @@ opacity: 1;
 }
 audio {
 border: 5px dashed #440d46;
-float: inherit;
+float: right;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -242,7 +242,7 @@ opacity: 1;
 .food {
 border: 5px dashed #440d46;
 display: block;
-float: inherit;
+float: none;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
