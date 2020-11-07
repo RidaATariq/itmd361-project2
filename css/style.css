@@ -65,6 +65,7 @@ color: #2c4e4e;
 a:visited {
 background-color: #536161;
 color: #2c4e4e;
+float: left;
 }
 .nav a:hover,
 a:active {
