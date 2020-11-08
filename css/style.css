@@ -100,14 +100,16 @@ display: block;
 margin-left: 120px;
 }
 h4#makkah {
+text-align: center;
 color: #b3baba;
-font-weight: 700;
 text-decoration-line: underline;
+text-decoration-style: solid;
 }
 h4#madinah {
+text-align: center;
 color: #b3baba;
-font-weight: 700;
 text-decoration-line: underline;
+text-decoration-style: solid;
 }
 /*img#ksa {
 border: 5px dashed #440d46;
