@@ -32,6 +32,7 @@ padding-top: 1em;
 
 .nav {
 border: solid #2c4e4e;
+float: initial;
 border-width: 5px;
 list-style: none;
 margin: 0;
@@ -117,6 +118,7 @@ opacity: 1;
 }*/
 .ksa {
 border: 5px dashed #440d46;
+float: initial;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -127,7 +129,7 @@ opacity: 1;
 }
 audio {
 border: 5px dashed #440d46;
-float: left;
+float: initial;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -227,7 +229,7 @@ padding-top: 1em;
 
 .nav {
 border: solid #2c4e4e;
-float: right;
+float: initial;
 border-width: 5px;
 list-style: none;
 margin: 0;
@@ -312,7 +314,7 @@ opacity: 1;
 }*/
 .ksa {
 border: 5px dashed #440d46;
-float: right;
+float: initial;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -323,7 +325,7 @@ opacity: 1;
 }
 audio {
 border: 5px dashed #440d46;
-float: right;
+float: initial;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -435,7 +437,7 @@ opacity: 1;
 }*/
 .food {
 border: 5px dashed #440d46;
-float: right;
+float: initial;
 display: block;
 margin-left: auto;
 margin-right: auto;
