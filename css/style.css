@@ -90,12 +90,12 @@ text-decoration-line: underline;
 text-decoration-style: solid;
 }
 dt {
-text-align: center;
+text-align: right;
 display: block;
 margin-left: 60px;
 }
 dd {
-text-align: center;
+text-align: right;
 display: block;
 margin-left: 140px;
 }
