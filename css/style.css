@@ -111,6 +111,12 @@ color: #b3baba;
 text-decoration-line: underline;
 text-decoration-style: solid;
 }
+h4#king {
+text-align: center;
+color: #b3baba;
+text-decoration-line: underline;
+text-decoration-style: solid;
+}
 /*img#ksa {
 border: 5px dashed #440d46;
 display: block;
@@ -127,14 +133,25 @@ float: initial;
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+width: 40%;
+min-width: 250px;
+height: auto;
+opacity: 1;
+}
+.ksa-right {
+border: 5px dashed #440d46;
+float: right;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
 min-width: 250px;
 height: auto;
 opacity: 1;
 }
 audio {
 border: 5px dashed #440d46;
-float: initial;
+float: left;
 display: block;
 margin-left: auto;
 margin-right: auto;
@@ -246,7 +263,7 @@ opacity: 1;
 }*/
 .food {
 border: 5px dashed #440d46;
-float: initial;
+float: inherit;
 display: block;
 margin-left: auto;
 margin-right: auto;
