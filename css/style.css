@@ -32,7 +32,7 @@ padding-top: 1em;
 
 .nav {
 border: solid #2c4e4e;
-float: initial;
+float: inherit;
 border-width: 5px;
 list-style: none;
 margin: 0;
@@ -263,7 +263,7 @@ opacity: 1;
 }*/
 .food {
 border: 5px dashed #440d46;
-float: inherit;
+float: initial;
 display: block;
 margin-left: auto;
 margin-right: auto;
