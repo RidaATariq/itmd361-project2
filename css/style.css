@@ -158,6 +158,12 @@ margin-right: auto;
 width: 50%;
 min-width: 250px;
 }
+.index h3 {
+text-align: center;
+color: #440d46;
+text-decoration-line: underline;
+text-decoration-style: solid;
+}
 
 /* Resume Page */
 
